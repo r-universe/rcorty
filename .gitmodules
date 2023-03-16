@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "actogrammr"]
+	path = actogrammr
+	url = https://github.com/rcorty/actogrammr
+	shallow = true
+	registered = true
+[submodule "ggQQunif"]
+	path = ggQQunif
+	url = https://github.com/rcorty/ggqqunif
+	shallow = true
+	registered = true
+[submodule "wISAM"]
+	path = wISAM
+	url = https://github.com/rcorty/wisam
+	shallow = true
+	registered = true
